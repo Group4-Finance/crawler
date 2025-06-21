@@ -1,12 +1,17 @@
 README.md
 setup.py
+crawler/ETF_PremiumDiscount_crawler.py
+crawler/MagaBank_NEWS_crawler.py
 crawler/__init__.py
+crawler/cnyes_headlines_crawler.py
 crawler/producer.py
+crawler/producer_crawler_finance.py
 crawler/producer_crawler_finmind.py
 crawler/producer_multi_queue.py
 crawler/tasks.py
 crawler/tasks_crawler_finmind.py
 crawler/test.py
+crawler/vix_crawler.py
 crawler/worker.py
 crawler.egg-info/PKG-INFO
 crawler.egg-info/SOURCES.txt
